@@ -1,0 +1,7 @@
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter6\ArrayDemo\ArrayDemo\bin\Debug\ArrayDemo.exe.config
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter6\ArrayDemo\ArrayDemo\bin\Debug\ArrayDemo.exe
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter6\ArrayDemo\ArrayDemo\bin\Debug\ArrayDemo.pdb
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter6\ArrayDemo\ArrayDemo\obj\Debug\ArrayDemo.csprojAssemblyReference.cache
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter6\ArrayDemo\ArrayDemo\obj\Debug\ArrayDemo.csproj.CoreCompileInputs.cache
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter6\ArrayDemo\ArrayDemo\obj\Debug\ArrayDemo.exe
+C:\Users\kw180343\Desktop\C-Sharp-Projects\Chapter6\ArrayDemo\ArrayDemo\obj\Debug\ArrayDemo.pdb
